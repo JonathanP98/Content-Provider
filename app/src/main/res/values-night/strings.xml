@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_remove">Eliminar</string>
+    <string name="note_title_hint">Titulo</string>
+    <string name="note_description_hint">Descripcion</string>
+</resources>
